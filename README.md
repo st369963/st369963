@@ -41,7 +41,7 @@
   <body class="container">
     <div class="container" style="width: 80%; flex-direction: row">
       <div class="col fadeIn">
-        <img src="./profile.jpeg" alt="My Photo" style="width: 100%" />
+        <img src="./5eb22793800d7.jpg" alt="My Photo" style="width: 100%" />
       </div>
       <div id="details" class="col fadeIn fadeIn-slow initHide">
         <h1>自我介紹</h1>
