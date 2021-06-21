@@ -84,13 +84,5 @@
         </ul>
       </div>
     </div>
-    <script>
-      window.onload = () => {
-        setTimeout(() => {
-          var detail = document.querySelector("#details");
-          detail.classList.remove("initHide");
-        }, 2000);
-      };
-    </script>
   </body>
 </html>
